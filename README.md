@@ -3,6 +3,6 @@ QNimate-Page-Scrolled-Indicator
 
 Indicates the percentage of page scrolled
 
-[Live Preview](https://github.com/user/repo/blob/branch/docs/more_words.md)
+[Live Preview](http://labs.qnimate.com/percentage-scrolled/)
 
 Just insert this JavaScript file into any webpage to see the percentage of page scrolled indicator.
